@@ -1,0 +1,4 @@
+[submodule "Shared"]
+	path = Shared
+	url = git@github.com:Rowan09456/Shared.git
+	branch = main
